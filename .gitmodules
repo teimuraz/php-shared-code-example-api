@@ -1,0 +1,3 @@
+[submodule "src/Shared"]
+	path = src/Shared
+	url = https://github.com/teimuraz/php-shared-code-example-shared.git
